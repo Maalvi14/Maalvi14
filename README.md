@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Manuel! 👋
 
-<!--
-**Maalvi14/Maalvi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Recent Computer Science Graduate** | 🔐 **AI Security Advocate** | ⚙️ **SRE Enthusiast**
 
-Here are some ideas to get you started:
+I'm passionate about bridging **AI Security** and **Site Reliability Engineering** to enhance observability and ensure robust, scalable infrastructure. Here's what I've been working on recently:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 **Current Contributions**: Actively contributing to [PyRIT](https://github.com/pyrit), a cutting-edge AI Red Teaming tool.
+- 🛠️ **Environmental Automation**: Developing automated environments to test AI server infrastructure, including:
+  - **Apple's Private Cloud Computing (PCC)**
+  - **Anthropic's Model Context Protocol (MCP)**
+
+I thrive at the intersection of AI, security, and automation, constantly learning and applying new ideas to solve complex challenges.
+
+---
+
+📫 **Connect with me**:  
+[GitHub](https://github.com/Maalvi14) | [LinkedIn](https://www.linkedin.com/in/manuelvillanuev)
+
+🌱 **Fun Fact**: I'm exploring ways to integrate AI observability with cloud-native solutions. 🚀
