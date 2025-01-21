@@ -1,6 +1,6 @@
-# Hi, I'm Manuel! 👋
+# Hi, I'm Manuel! :)
 
-🎓 **Recent Computer Science Graduate** | 🔐 **AI Security Advocate** | ⚙️ **SRE Enthusiast**
+i'm a recent Computer Science Graduate and AI Security/SRE Enthusiast.
 
 I'm passionate about bridging **AI Security** and **Site Reliability Engineering** to enhance observability and ensure robust, scalable infrastructure. Here's what I've been working on recently:
 
@@ -12,8 +12,4 @@ I'm passionate about bridging **AI Security** and **Site Reliability Engineering
 I thrive at the intersection of AI, security, and automation, constantly learning and applying new ideas to solve complex challenges.
 
 ---
-
-📫 **Connect with me**:  
-[GitHub](https://github.com/Maalvi14) | [LinkedIn](https://www.linkedin.com/in/manuelvillanuev)
-
 🌱 **Fun Fact**: I'm exploring ways to integrate AI observability with cloud-native solutions. 🚀
