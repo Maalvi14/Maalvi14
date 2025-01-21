@@ -2,9 +2,11 @@
 
 i'm a recent Computer Science Graduate and AI Security/SRE Enthusiast.
 
-I'm passionate about bridging **AI Security** and **Site Reliability Engineering** to enhance observability and ensure robust, scalable infrastructure. Here's what I've been working on recently:
+I'm passionate about bridging AI Security and Site Reliability Engineering to ensure AI can advance without going **boom**.
 
-- Actively contributing to [PyRIT](https://github.com/pyrit), a cutting-edge AI Red Teaming tool.
+Here's what I've been working on recently:
+
+- Actively contributing to PyRIT, a cutting-edge AI Red Teaming tool.
 - Developing automated environments to test AI server infrastructure, including:
   - Apple's Private Cloud Computing (PCC)
   - Anthropic's Model Context Protocol (MCP)
