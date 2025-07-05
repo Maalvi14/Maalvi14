@@ -6,11 +6,8 @@ I'm passionate about bridging AI Security and Site Reliability Engineering to en
 
 Here's what I've been working on recently:
 
-- Actively contributing to PyRIT, a cutting-edge AI Red Teaming tool.
-- Starting work on Atomic Red Team Project
-- Developing automated environments to test AI server infrastructure, including:
-  - Apple's Private Cloud Computing (PCC)
-  - Anthropic's Model Context Protocol (MCP)
+- Expanding GlucoSense to handle more complex prediction (e.g. Insulin efficiency)
+- Simulating AI Clusters with RoCE communication using LimaVM + Soft-RoCE
 
 I thrive at the intersection of AI, security, and automation, constantly learning and applying new ideas to solve complex challenges.
 
