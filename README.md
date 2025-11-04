@@ -1,6 +1,6 @@
-# Hi, I'm Manuel! :)
+# Hi, I'm Manuel,
 
-I'm passionate about bridging AI Security and SRE to ensure AI can advance without going **boom**.
+I'm a SRE turned ML Engineer.
 
 Here's what I've been working on recently:
 
