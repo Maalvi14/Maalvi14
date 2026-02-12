@@ -2,7 +2,7 @@
 
 I'm a SRE turned ML Engineer.
 
-Here's what I've been working on recently:
+Here's what I'm working on recently behind the scenes:
 
-- Simulating AI Clusters with RoCE communication using LimaVM + Soft-RoCE on MacOS.
 - Working on MLX's CUDA Support.
+- Building extra tooling for Jetson AGX Thor.
