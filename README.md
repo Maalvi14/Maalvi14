@@ -6,4 +6,3 @@ Here's what I'm working on recently behind the scenes:
 
 - Helping with MLX FFT on CUDA + Sorting behavior
 - Working on Interpretability methods for Post-Training
-- Contributing to OpenUSD + NVIDIA LearnOpenUSD
